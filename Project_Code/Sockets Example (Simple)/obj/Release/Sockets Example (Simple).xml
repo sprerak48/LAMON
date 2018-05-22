@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SocketsExample(Simple)
+</name>
+</assembly>
+<members>
+<member name="M:Sockets_Example_Simple.MySocketArrays.isArraySafe(System.Array@)">
+	<summary>
+ Returns true if an array both exists and has at least one member.
+ </summary>
+	<param name="Arr"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySocketArrays.addToArray``1(``0[]@,``0@)">
+	<summary>
+ Adds an item to the end of an array.
+ </summary>
+	<typeparam name="T"></typeparam>
+	<param name="Arr"></param>
+	<param name="Item"></param>
+	<remarks></remarks>
+</member><member name="P:Sockets_Example_Simple.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sockets_Example_Simple.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sockets_Example_Simple.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Sockets_Example_Simple.MySockets.isValidAddressListing(System.String)">
+	<summary>
+ Returns if a comma-seperates string of addresses and hostnames is a valid list of addresses.  NO DNS CHECK.
+ </summary>
+	<param name="Input"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.isIPAddress(System.String,System.Boolean)">
+	<summary>
+ Returns if a provided string is a valid IP address.
+ </summary>
+	<param name="Address"></param>
+	<param name="AllowWildcards"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.ConvertMiscToLongIPs(System.String[])">
+	<summary>
+ Converts any valid absolute hostname or absolute IP address in an array of strings into an array of long IPs.
+ </summary>
+	<param name="Hosts"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.GetWildcardAddresses(System.String[])">
+	<summary>
+ Returns just those addresses in an array of strings that are wildcard IP addresses.
+ </summary>
+	<param name="Addresses"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.doesIPMatchWildIP(System.String,System.String)">
+	<summary>
+ When provided an absolute IP and a wildcard IP, this returns if the absolute falls within the wildcard one.
+ </summary>
+	<param name="Address"></param>
+	<param name="WildAddress"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.Connect(System.String,System.Int32)">
+	<summary>
+ Connects to a remote IP or hostname on the port provided with a TCP socket over IPv4.
+ </summary>
+	<param name="Address"></param>
+	<param name="Port"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.Disconnect">
+	<summary>
+ Begins the disconnection process by telling the socket monitor to quit.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.FinishDisconnect">
+	<summary>
+ Finishes the disconnection process by closing the socket.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.Send(System.String@)">
+	<summary>
+ Sends a string.
+ </summary>
+	<param name="Data"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.Send(System.Byte[]@)">
+	<summary>
+ Sends a byte array.
+ </summary>
+	<param name="Data"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketClient.MonitorSocketForData">
+	<summary>
+ Monitors the socket for available data and also if it is blatantly disconnected.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Sockets_Example_Simple.MySockets.socketClient">
+	<summary>
+ Provides a TCP/IP socket connection to a server.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.Listen(System.Int32,System.Int32,System.String[])">
+	<summary>
+ Causes the server to start listening for connections on a specified port.
+ </summary>
+	<param name="SocketCount"></param>
+	<param name="Port"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.stopListen(System.Boolean)">
+	<summary>
+ Causes the server to stop listening for new connections.  Optionally, it will also disconnect all current ones.
+ </summary>
+	<param name="KillConnections"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.KillAllConnections">
+	<summary>
+ Disconnects all connected sockets.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.Disconnect(System.Int32)">
+	<summary>
+ Begins the disconnection process by telling the socket monitor to quit.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.FinishDisconnect(System.Int32)">
+	<summary>
+ Finishes the disconnection process by closing the socket.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.Send(System.Int32,System.String@)">
+	<summary>
+ Sends a string.
+ </summary>
+	<param name="Data"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.Send(System.Int32,System.Byte[]@)">
+	<summary>
+ Sends a byte array.
+ </summary>
+	<param name="Data"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.getFreeSocket">
+	<summary>
+ Finds a free socket.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.MonitorSocketForData(System.Object)">
+	<summary>
+ Monitors a socket for available data and receives it.
+ </summary>
+	<param name="Args"></param>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.isAllowableAddress(System.String)">
+	<summary>
+ Returns if an IP (may contain a port in colon form, too) is allowed by this server.
+ </summary>
+	<param name="RemoteIP"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Sockets_Example_Simple.MySockets.socketServer.MonitorListenerForConnections">
+	<summary>
+ Monitors for pending connections and accepts them if there are any free spaces.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Sockets_Example_Simple.MySockets.socketServer">
+	<summary>
+ Provides a TCP/IP server.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

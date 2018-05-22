@@ -1,0 +1,252 @@
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+F:\New Folder\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+H:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+E:\D - Drive\Data\chintan\CHINTAN\all project\projct List\Projects 2010-2011\Network SMS\Sockets Example - Simplistic (Chat)\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+F:\Documents and Settings\chintan parekh\Desktop\Anand_GSM_SMS\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+J:\Anand_GSM_SMS1\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Users\ChintanP\Desktop\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+C:\Documents and Settings\JSSHAH\Desktop\Shared\Anand_Projects\Project_Code\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+I:\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+F:\Documents and Settings\chintan parekh\Desktop\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_13_01_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+I:\Final_13_01_11\Anand_Projects\23-01-2011\Final_06_02_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\New_Test_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Finalt_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Finalt_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+I:\ProjectIdeas_9-12-10\Projects 2010-2011\Network SMS\Finalt_23_3_11\Final_16_03_11\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+D:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+E:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\Project_2011-2012\Network SMS\Finalt_23_3_11\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\Project_2011-2012\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\Project_2011-2012\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\Project_2011-2012\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+E:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+H:\project&document_2012-2013_new\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).exe
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).exe
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\bin\Debug\Sockets Example (Simple).xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Form1.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmCommunicator.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmIpList.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.frmProcessManagement_Kill.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.machine_command.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets_Example_Simple.Resources.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\Final\Project_Code_Client\Sockets Example (Simple)\obj\Debug\Sockets Example (Simple).vbproj.GenerateResource.Cache

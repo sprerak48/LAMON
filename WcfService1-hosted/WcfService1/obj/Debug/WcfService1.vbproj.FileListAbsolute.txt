@@ -1,0 +1,45 @@
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\bin\WcfService1.dll
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\bin\WcfService1.pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\bin\WcfService1.xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.Resources.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\bin\WcfService1.dll
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\bin\WcfService1.pdb
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\bin\WcfService1.xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.Resources.resources
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.dll
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.xml
+E:\Project 2013-2014\Network SMS\new_25_2_13\New_GSM_based_LAN - with Service\WCFService\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.pdb
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\bin\WcfService1.dll
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\bin\WcfService1.pdb
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\bin\WcfService1.xml
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.Resources.resources
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.dll
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.xml
+E:\Project_2013-2014\Network SMS Web Service\New_GSM_based_LAN - with Service\Final\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.pdb
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\bin\WcfService1.dll
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\bin\WcfService1.pdb
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\bin\WcfService1.xml
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.Resources.resources
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.dll
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.xml
+E:\Project_2015-2016\NetworkSMS With Service\2016\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.pdb
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\bin\WcfService1.dll
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\bin\WcfService1.pdb
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\bin\WcfService1.xml
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.Resources.resources
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.dll
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.xml
+E:\Project_2015-2016\NetworkSMS With Service\Bhagubai\WcfService1-hosted\WcfService1\obj\Debug\WcfService1.pdb
